@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bksecpyjijqpq"
+path="res://.godot/imported/X-Cell Data 801 - 850.png-7c58f2b7804b0491837ee8643c713e4f.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Assets/02 XL Window/Data/X-Cell Data 801 - 850.png"
+dest_files=["res://.godot/imported/X-Cell Data 801 - 850.png-7c58f2b7804b0491837ee8643c713e4f.ctex"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=1.0
+compress/hdr_compression=0
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=false
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0
