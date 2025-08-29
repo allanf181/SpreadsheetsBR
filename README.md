@@ -1,5 +1,4 @@
 # Spreadsheets and Nothing More — Patch de dados em português (Steam)
-![img_1.png](img_1.png)
 
 > 🤖 **DISCLAIMER / AVISO**
 >
@@ -9,7 +8,7 @@
 > **EN-US:**
 > 🚨 **WARNING**: All data, translations, and materials in this repository were generated using Artificial Intelligence (AI). There may be inaccuracies or errors resulting from the automatic generation process. Any resemblance to real data, persons, or situations is purely coincidental.
 
-
+![img_1.png](img_1.png)
 Este guia explica como aplicar o patch de dados em português no jogo “Spreadsheets and Nothing More” usando apenas a interface da Steam (e também como alternativa manual, se preferir).
 
 ## O que o script faz
